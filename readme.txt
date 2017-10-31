@@ -1,4 +1,4 @@
-this is a file that get singer info from qq music
+This is a file that get singer info from qq music
 
 1.dataColect_from_qq is the main program.Before you run it, you need config modles,and build some table.
 
